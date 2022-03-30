@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nevareact/static/css/main.2abb9fb0.css",
+    "main.js": "/nevareact/static/js/main.b309a631.js",
+    "static/js/787.271e987b.chunk.js": "/nevareact/static/js/787.271e987b.chunk.js",
+    "static/media/fons.png": "/nevareact/static/media/fons.d1bf90e0865adf7ceaae.png",
+    "index.html": "/nevareact/index.html",
+    "main.2abb9fb0.css.map": "/nevareact/static/css/main.2abb9fb0.css.map",
+    "main.b309a631.js.map": "/nevareact/static/js/main.b309a631.js.map",
+    "787.271e987b.chunk.js.map": "/nevareact/static/js/787.271e987b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2abb9fb0.css",
+    "static/js/main.b309a631.js"
+  ]
+}
